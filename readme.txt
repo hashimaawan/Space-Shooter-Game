@@ -10,6 +10,9 @@ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
 To run on windows, Setup Sfml on visual studio
 Follow this link to setup : https://www.youtube.com/watch?v=lFzpkvrscs4
 
+To setup sfml on mac follow this link:
+https://www.sfml-dev.org/tutorials/2.6/start-osx.php
+
 
 About Project:
 This project is based upon the space shooter game which uses the concepts of Object Oriented Programming like inheritance, polymorphism, association, aggregation and composition.
