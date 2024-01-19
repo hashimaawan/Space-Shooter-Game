@@ -1,5 +1,5 @@
 
-//---------------        Space Shooter Game in C++        ---------------//
+                                         Space Shooter Game in C++       
 
 Commands for compiling and running the sfml code on Ubuntu:
 g++ -c main.cpp
