@@ -1,9 +1,10 @@
 /*
+
    Space Shooter Game in C++   
 
     MIT License
 
-     Hashim Awan on 19-05-2023
+    Created by Hashim Awan on 19-05-2023
     Copyright (c) 2023
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
