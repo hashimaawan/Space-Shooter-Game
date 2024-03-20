@@ -18,11 +18,6 @@ public:
         sprite.setTexture(tex);      
         sprite.setScale(1.2, 1.2);
     }
-   
-    void move()
-{
-
-}
 
 
 };
