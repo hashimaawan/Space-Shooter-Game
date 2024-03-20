@@ -4,10 +4,6 @@ Enemy::Enemy()
 {
 }
 
-// Invaderr::Invaderr()
-// {
-// }
-
 int Invaderr::getScore()
 {
     return score;
@@ -105,7 +101,3 @@ int Dragon::getScore()
     return score;
 }
 
-void Dragon::move()
-{
-    // ...
-}
